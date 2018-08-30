@@ -1,0 +1,7 @@
+C:\Users\AnzallaDD\source\repos\array\array\bin\Debug\array.exe.config
+C:\Users\AnzallaDD\source\repos\array\array\bin\Debug\array.exe
+C:\Users\AnzallaDD\source\repos\array\array\bin\Debug\array.pdb
+C:\Users\AnzallaDD\source\repos\array\array\obj\Debug\array.csprojAssemblyReference.cache
+C:\Users\AnzallaDD\source\repos\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\Users\AnzallaDD\source\repos\array\array\obj\Debug\array.exe
+C:\Users\AnzallaDD\source\repos\array\array\obj\Debug\array.pdb
